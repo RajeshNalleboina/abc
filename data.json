@@ -1,0 +1,20 @@
+{
+	"rajesh":"how are you",
+	"teja_praveen":{
+		"fname":"Ravindra Babu",
+		"mob":"7698703463",
+		"email":"sjfag@apssdc.in"
+	},
+
+	"details": [{
+			"name": "Praveen",
+			"org": "APSSDC",
+			"roll": "q344qw42"
+		},
+		{
+			"name": "Sai Teja",
+			"org": "APSSDC",
+			"roll": "72"
+		}
+	]
+}

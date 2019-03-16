@@ -1,0 +1,16 @@
+#cards{
+  display: flex;
+  /* justify-content: space-around; */
+}
+.data{
+  background: #aff;
+  width: 100%;
+  margin: 1%;
+  box-shadow: 2px 2px 2px 2px red;
+  text-align: center;
+}
+/* hr{ */
+  height: 50%;
+  box-shadow: 2px 2px 2px 2px black;
+
+}
