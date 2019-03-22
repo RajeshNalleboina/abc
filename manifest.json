@@ -1,10 +1,11 @@
 {
  "name": "Card_Views",
  "short_name":"cards",
- "sort_url":"",
+ "sort_url":".",
  "display":"standalone",
  "orientation":"portrate",
- "theme-color":"#ffffff",
+ "theme_color":"#ffffff",
+ "bakground_color":"#fddfee",
  "icons": [
   {
    "src": "img/android-icon-36x36.png",
