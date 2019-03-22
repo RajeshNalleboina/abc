@@ -3,9 +3,9 @@
  "short_name":"cards",
  "sort_url":".",
  "display":"standalone",
- "orientation":"portrate",
+ "orientation":"portrait",
  "theme_color":"#ffffff",
- "bakground_color":"#fddfee",
+ "background_color":"#fddfee",
  "icons": [
   {
    "src": "img/android-icon-36x36.png",
